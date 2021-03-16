@@ -7,6 +7,7 @@ public class Products {
 	 public static void main(String []args){
 	   
 		   Scanner s = new Scanner(System.in);
+		   
 		   System.out.println("Enter the first string");
 		  String first=s.nextLine();
 		  
